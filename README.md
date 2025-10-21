@@ -18,10 +18,6 @@ The **UNSW Predators** dataset contains 131,802 images from 82 camera locations 
 
 Images were collected by Brendan Alting through the **Myall Lakes Dingo/Dapin Project** using Browning Strike Force HD Pro cameras deployed from December 2022 to March 2023.
 
-**Funding & Ethics:**
-- Funded by: Oatley Flora and Fauna Society, Australian Wildlife Society, Taronga Conservation Society Australia, and UNSW Research Technology Services AWS cloud grant
-- Conducted under approval 22/102A from UNSW Animal Ethics Committee
-
 **Dataset Source:** [LILA BC - UNSW Predators](https://lila.science/datasets/unsw-predators/)
 
 ## Project Structure
@@ -35,7 +31,7 @@ UNSW-Predators/
 └── README.md
 ```
 
-## 🚀 Data Preparation
+## Data Preparation
 
 ### 1. Downloading the Dataset
 
