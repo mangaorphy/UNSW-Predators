@@ -2,7 +2,7 @@
 
 This project implements and compares classical machine learning and deep learning approaches for classifying wildlife camera trap images from the UNSW Predators dataset.
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The **UNSW Predators** dataset contains 131,802 images from 82 camera locations in Myall Lakes National Park, New South Wales, Australia. The dataset includes five wildlife categories:
 
@@ -24,7 +24,7 @@ Images were collected by Brendan Alting through the **Myall Lakes Dingo/Dapin Pr
 
 **Dataset Source:** [LILA BC - UNSW Predators](https://lila.science/datasets/unsw-predators/)
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 UNSW-Predators/
